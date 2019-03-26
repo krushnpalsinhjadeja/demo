@@ -1,0 +1,14 @@
+.example-form {
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+.mat-card{
+  width: 40%;
+  margin: 0 auto;
+}
+mat-tab{
+  color: #3f51b5;
+}
